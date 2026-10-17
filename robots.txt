@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jackstervilla.github.io/jolly-good-finds/sitemap.xml
